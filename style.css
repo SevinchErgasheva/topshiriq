@@ -1,0 +1,90 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+span, a {
+    display: inline-block;
+}
+.qism1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.rasm{
+    width: 150px;
+}
+.qism2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center; 
+}
+.qism3{
+    background-size: cover;
+    background-image: url("majlislarzali.jpg");
+   width: 100%;
+   height: 400px;
+}
+.qism4{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.chap{
+    width: 70%;
+}
+.ong{
+    width: 30%;
+}
+.hujjatlar{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.chap1{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+.ruchka{
+    width: 45%;
+    border-top: 0px;
+}
+.chap2{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-betwee;
+}
+.yozuv{
+    width: 50%;
+}
+.span{
+    border-radius: ;
+    background-color: black;
+    color: white;
+}
+.a{
+    text-align: center;
+    text-decoration: none;
+}
+.ab{
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+}
+.chap3{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center; 
+}
+.chap4{
+    text-align: ight;
+}
